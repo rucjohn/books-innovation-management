@@ -1,6 +1,7 @@
 # Table of contents
 
-* [出版说明](README.md)
+* [开始](README.md)
+* [出版说明](Publication-Notes.md)
 * [译者序](Translator-order.md)
 * [前言](Foreword.md)
 * [参考文献](References.md)
