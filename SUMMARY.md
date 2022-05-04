@@ -4,7 +4,7 @@
 * [译者序](Translator-order.md)
 * [前言](<README (2).md>)
 * [参考文献](References.md)
-* [第1章 创新的定义](topic\_1/README.md)
+* [第1章 创新的定义](topic-1/README.md)
   * [1.1 创新的重要性](topic\_1/1.1-chuang-xin-de-zhong-yao-xing.md)
   * [1.2 创新不仅仅是高科技](topic\_1/1.2-chuang-xin-bu-jin-jin-shi-gao-ke-ji.md)
   * [1.3 创新不仅仅是产品](topic\_1/1.3-chuang-xin-bu-jin-jin-shi-chan-pin.md)
