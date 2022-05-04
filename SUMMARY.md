@@ -2,7 +2,7 @@
 
 * [出版说明](README.md)
 * [译者序](Translator-order.md)
-* [前言](<README (2).md>)
+* [前言](Foreword.md)
 * [参考文献](References.md)
 * [第1章 创新的定义](topic-1/README.md)
   * [1.1 创新的重要性](topic\_1/1.1-chuang-xin-de-zhong-yao-xing.md)
