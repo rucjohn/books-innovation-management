@@ -11,6 +11,5 @@
   * [1.3 创新不仅仅是产品](topic-1/1-3.md)
   * [1.4 创新与创业精神](topic-1/1-4.md)
   * [1.5 创新带来的战略优势](topic-1/1-5.md)
-  * [1.6 旧问题，新情境](topic-1/1-6.md)
+  * [1.6 旧问题，新情境](topic\_1/1.6-jiu-wen-ti-xin-qing-jing.md)
   * [小结](topic-1/Summary.md)
-
