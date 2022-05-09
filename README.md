@@ -1,15 +1,27 @@
-工商管理经典译丛  BUSINESS ADMINISTRATION CLASSICS
+# 开始
+
+&#x20;                             <mark style="color:red;">**工  商  管  理  经  典  译  丛**</mark>**     |     BUSINESS ADMINISTRATION CLASSICS**
+
+&#x20;                                                           **MANAGING INNOVATION**&#x20;
+
+&#x20;                                                                   SIXTH EDITION
 
 
-MANAGING INNOVATION
-SIXTH EDITION
 
-创新管理
+&#x20;                                                                  **创     新     管     理**
 
-第六版
+&#x20;                                                                           第六版
 
-著
-乔 • 蒂德（Joe Tidd）
-约翰 • 贝赞特（John Bessant）
 
-陈劲 译
+
+
+
+&#x20;                                                                              著
+
+&#x20;                                                                 乔 • 蒂德（Joe Tidd）&#x20;
+
+&#x20;                                                           约翰 • 贝赞特（John Bessant）
+
+
+
+&#x20;                                                                          陈劲 译
