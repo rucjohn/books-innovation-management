@@ -40,4 +40,5 @@
   * [3.8 跨越边界](topic-3/3-8.md)
   * [小结](topic-3/Summary.md)
 * [第4章 制定创新的战略](topic-4/README.md)
+  * [4.1 理性主义还是渐进主义的创新战略](topic-4/4-1.md)
 
