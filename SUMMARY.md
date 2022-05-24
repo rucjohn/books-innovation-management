@@ -29,6 +29,6 @@
   * [2.8 我们对成功的创新管理了解多少](topic-2/2-8.md)
   * [2.9 超出稳态](topic-2/2-9.md)
   * [小结](topic-2/Summary.md)
-
+* [第3章 建立创新型组织](topic-3/README.md)
 
 
