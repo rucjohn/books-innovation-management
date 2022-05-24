@@ -30,5 +30,6 @@
   * [2.9 超出稳态](topic-2/2-9.md)
   * [小结](topic-2/Summary.md)
 * [第3章 建立创新型组织](topic-3/README.md)
+  * [3.1 共同愿景、领导力和创新的意愿](topic-3/3-1.md)
 
 
