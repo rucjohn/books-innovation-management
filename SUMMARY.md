@@ -39,5 +39,5 @@
   * [3.7 创造性的氛围](topic-3/3-7.md)
   * [3.8 跨越边界](topic-3/3-8.md)
   * [小结](topic-3/Summary.md)
-
+* [第4章 制定创新的战略](topic-4/README.md)
 
