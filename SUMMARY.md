@@ -49,4 +49,9 @@
   * [4.7 创新的全球化](topic-4/4-7.md)
   * [4.8 促进战略制定](topic-4/4-8.md)
   * [小结](topic-4/Summary.md)
+* [第5章 创新之源](topic-5/README.md)
+
+
+
+
 
