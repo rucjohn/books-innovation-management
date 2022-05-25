@@ -88,6 +88,6 @@
   * [7.6 通向未知的网络](topic-7/7-6.md)
   * [7.7 管理创新网络](topic-7/7-7.md)
   * [小结](topic-7/Summary.md)
-
+* [第8章 不确定性下的决策](topic-8/README.md)
 
 
