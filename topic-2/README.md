@@ -1,6 +1,6 @@
 # 第2章 作为核心商业过程的创新
 
-**Innovation as a Core Business Process**&#x20;
+¶ **Innovation as a Core Business Process**&#x20;
 
 
 
