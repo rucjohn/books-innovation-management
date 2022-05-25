@@ -89,5 +89,6 @@
   * [7.7 管理创新网络](topic-7/7-7.md)
   * [小结](topic-7/Summary.md)
 * [第8章 不确定性下的决策](topic-8/README.md)
+  * [8.1 面对不确定性带来的挑战](topic-8/8-1.md)
 
 
