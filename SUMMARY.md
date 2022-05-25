@@ -100,5 +100,6 @@
   * [小结](topic-8/Summary.md)
 * [第9章 制定创新方案](topic-9/README.md)
   * [9.1 拟定商业计划书](topic-9/9-1.md)
+  * [9.2 预测创新](topic-9/9-2.md)
 
 
