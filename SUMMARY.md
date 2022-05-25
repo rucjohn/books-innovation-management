@@ -80,6 +80,7 @@
   * [6.8 用于搜导的工具和机制](topic-6/6-8.md)
   * [小结](topic-6/Summary.md)
 * [第7章 创新网络](topic-7/README.md)
+  * [7.1 关于创新的 “面条” 模型](topic-7/7-1.md)
 
 
 
