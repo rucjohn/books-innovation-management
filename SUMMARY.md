@@ -99,6 +99,6 @@
   * [8.8 划出选择空间](topic-8/8-8.md)
   * [小结](topic-8/Summary.md)
 * [第9章 制定创新方案](topic-9/README.md)
-
+  * [9.1 拟定商业计划书](topic-9/9-1.md)
 
 
