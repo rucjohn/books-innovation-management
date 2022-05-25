@@ -69,7 +69,7 @@
   * [5.17 未来和预测](topic-5/5-17.md)
   * [5.18 偶发事件](topic-5/5-18.md)
   * [小结](topic-5/Summary.md)
-
+* [第6章 创新的搜寻策略](topic-6/README.md)
 
 
 
