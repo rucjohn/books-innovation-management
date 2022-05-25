@@ -98,5 +98,7 @@
   * [8.7 临渊决策](topic-8/8-7.md)
   * [8.8 划出选择空间](topic-8/8-8.md)
   * [小结](topic-8/Summary.md)
+* [第9章 制定创新方案](topic-9/README.md)
+
 
 
