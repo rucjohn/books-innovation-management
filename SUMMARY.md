@@ -51,6 +51,7 @@
   * [小结](topic-4/Summary.md)
 * [第5章 创新之源](topic-5/README.md)
   * [5.1 创新从何而来](topic-5/5-1.md)
+  * [5.2 知识推动](topic-5/5-2.md)
 
 
 
