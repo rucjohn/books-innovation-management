@@ -81,6 +81,7 @@
   * [小结](topic-6/Summary.md)
 * [第7章 创新网络](topic-7/README.md)
   * [7.1 关于创新的 “面条” 模型](topic-7/7-1.md)
+  * [7.2 创新网络概述](topic-7/7-2.md)
 
 
 
