@@ -79,7 +79,7 @@
   * [6.7 吸收能力](topic-6/6-7.md)
   * [6.8 用于搜导的工具和机制](topic-6/6-8.md)
   * [小结](topic-6/Summary.md)
-
+* [第7章 创新网络](topic-7/README.md)
 
 
 
