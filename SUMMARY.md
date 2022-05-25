@@ -71,6 +71,7 @@
   * [小结](topic-5/Summary.md)
 * [第6章 创新的搜寻策略](topic-6/README.md)
   * [6.1 创新的机会](topic-6/6-1.md)
+  * [6.2 何时搜寻](topic-6/6-2.md)
 
 
 
